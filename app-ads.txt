@@ -75,6 +75,7 @@ opera.com, pub6794361378752, RESELLER, 55a0c5fd61378de3
 playdigo.com, 1965, RESELLER, 92011346d63d3c30
 playwire.com, 1018531, RESELLER
 playwire.com, 1025000, RESELLER
+playwire.com, 1025119, RESELLER
 pokkt.com, 6246, RESELLER, c45702d9311e25fd
 pokkt.com, 7606, RESELLER, c45702d9311e25fd
 pubmatic.com, 156494, RESELLER, 5d62403b186f2ace
